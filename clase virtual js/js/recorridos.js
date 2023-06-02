@@ -1,9 +1,9 @@
 /* 📌 .indexOf()
 	Obtenemos el primer index de un elemento.
 	Si no hay elemento nos retorna -1
-*/
-const nombres = ['Carlos', 'Rafael', 'Estefania', 'Rodrigo', 'Rafael', 'Gema', 'Diana', 'Sara'];
-console.log(nombres.indexOf('Rafael'));
+*/ 
+const nombres = ['Carlos', 'Estefania', 'Rodrigo', 'Rafael', 'Gema', 'Diana', 'Sara', 'Rafael'];
+console.log(nombres.indexOf('Diana'));
 
 /* 
 	📌 .lastIndexOf() 
